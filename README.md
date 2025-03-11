@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Emad</h1>
-<h3 align="center">Data Engineer | Mlops </h3>
+<h3 align="center">Passionate about data, from Egypt </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marionageh&label=Profile%20views&color=0e75b6&style=flat" alt="marionageh" /> </p>
 
@@ -31,21 +31,3 @@
 
 
  </p>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EbEmad&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/EbEmad/github-readme-activity-graph)
-
-<div width="100%" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EbEmad&theme=transparent"/>
-</div>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EbEmad&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EbEmad&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EbEmad&theme=dark" alt="GitHub Streak" />
-</p>
