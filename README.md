@@ -14,7 +14,6 @@
 </a>
 
 <br> <!-- This will force a new line -->
-
 <!-- Second line -->
 <a href="mailto:ebemad8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="30" style="border: none;" />
