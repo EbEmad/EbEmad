@@ -12,6 +12,7 @@
 <a href="https://codeforces.com/profile/ebemad8" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" />
 </a>
+
 <br> <!-- This will force a new line -->
 
 <!-- Second line -->
