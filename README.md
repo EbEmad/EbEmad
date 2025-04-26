@@ -13,6 +13,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" />
 </a>
 
+<a href="mailto:ebemad8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="30" style="border: none;" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
