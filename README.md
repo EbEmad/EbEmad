@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marionageh&label=Profile%20views&color=0e75b6&style=flat" alt="marionageh" /> </p>
 
-- 💬 Ask me about **Reverse Enginnering**
+- 💬 Ask me about **Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
