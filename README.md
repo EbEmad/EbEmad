@@ -8,20 +8,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ebrahim-emad-a7852222b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 2px;" />
-  </a>
-  <a href="https://leetcode.com/u/ebemad8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin: 0 2px;" />
-  </a>
-  <a href="https://codeforces.com/profile/ebemad8" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="margin: 0 2px;" />
-  </a>
-  <a href="https://atcoder.jp/users/ebemad8" target="_blank">
-    <img src="https://iili.io/HTsq4wv.png" alt="AtCoder" height="30" width="40" style="margin: 0 2px;" />
-  </a>
-  <a href="mailto:ebemad8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="30" style="margin: 0 2px;" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/ebemad8/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/ebemad8" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+<a href="https://atcoder.jp/users/ebemad8" target="_blank">
+  <img src="https://iili.io/HTsq4wv.png" alt="AtCoder" height="30" width="40" />
+</a>
+<a href="mailto:ebemad8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="30" />
+</a>
 </p>
 
 
