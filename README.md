@@ -40,6 +40,9 @@
 </a>  <a href="https://airflow.apache.org/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" height="30" width="40" />
 </a>
+<a href="https://hadoop.apache.org/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Apache Hadoop" height="30" width="40" />
+</a>
 
 
  </p>
