@@ -29,6 +29,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=fastapi&color=353535)
 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat-square&logo=scikit-learn&color=353535)
+![MLflow](https://img.shields.io/badge/MLflow-2C2C2C?style=flat-square&logo=mlflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas&color=353535)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy&color=353535)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=matplotlib&color=353535)
