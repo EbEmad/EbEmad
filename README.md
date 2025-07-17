@@ -53,7 +53,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&color=353535)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat-square&logo=apache-hadoop&color=353535)
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat-square&logo=apache-spark&color=353535)
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat-square&logo=apachekafka&color=353535)
 ![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat-square&logo=dbt&color=353535)
+
 
 
 
