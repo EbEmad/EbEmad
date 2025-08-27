@@ -45,6 +45,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&color=353535)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&color=353535)
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat-square&logo=apache-airflow&color=353535)
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat-square&logo=grafana&color=353535)
 
 
 
