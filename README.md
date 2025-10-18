@@ -54,6 +54,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=mysql&color=353535)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&color=353535)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&color=353535)
+![VectorDB](https://img.shields.io/badge/-VectorDB-05122A?style=flat-square&logo=databricks&color=353535)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat-square&logo=apache-hadoop&color=353535)
 ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat-square&logo=apache-hive&color=353535)
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat-square&logo=apache-spark&color=353535)
