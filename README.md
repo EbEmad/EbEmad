@@ -33,10 +33,11 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat-square&logo=scikit-learn&color=353535)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=pytorch&logoColor=EE4C2C&color=353535)
 ![MLflow](https://img.shields.io/badge/MLflow-2C2C2C?style=flat-square&logo=mlflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas&color=353535)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy&color=353535)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-05122A?style=flat-square&logo=crewai&logoColor=white&color=353535)
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=langchain&logoColor=white&color=353535)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas&color=353535)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy&color=353535)
+
 
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&color=353535)
