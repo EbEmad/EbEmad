@@ -6,6 +6,7 @@
 </p>
 
 - 💬 Ask me about **Data**
+- `Dream big, work hard, stay focused`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
