@@ -27,7 +27,6 @@
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c&color=353535)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=c%2B%2B&color=353535)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp&color=353535)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&color=353535)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=fastapi&color=353535)
 
@@ -54,7 +53,7 @@
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=mysql&color=353535)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&color=353535)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=redis&color=353535)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat-square&logo=elasticsearch&color=353535)
 ![VectorDB](https://img.shields.io/badge/-VectorDB-05122A?style=flat-square&logo=databricks&color=353535)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat-square&logo=apache-hadoop&color=353535)
 ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat-square&logo=apache-hive&color=353535)
